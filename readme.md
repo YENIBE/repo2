@@ -4,7 +4,8 @@ git status
 
 ![Meme sobre git status](./image.png)
 git ad . 
-! [Meme sobre git  ad](./image%20copy.png)
+![Descripción de la imagen](./image%20copy.png)
+
 git
 
 
