@@ -9,9 +9,14 @@ Este muestra informacion actual del repositorio.
 
 El git add . se guarda en el ordenador en memoria temporal un (.)sirve para carpeta actual (..)para retroceder de carpeta
 
-*** El git commit -m "" se coloca un comentario para la subida ***
+ El git commit -m "" se coloca un comentario para la subida 
 
 ![Se observa la explicacion de ad . y tambien de git commint -m en un meme](./image%20copy.png)
+
+
+
+
+
 
 **git push**
 
